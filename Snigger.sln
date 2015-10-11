@@ -3,8 +3,45 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{E9B02C7D-0A68-40A3-A79A-CB783485FF6F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{13F2BBA0-A5D1-4937-8A44-836FEB5667F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{77DD860E-3FD1-414E-86BC-803D2482D92D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "External Libraries", "External Libraries", "{5E98344C-203D-4442-AF3A-2793FA09B56E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snigger.Models", "Snigger.Models\Snigger.Models.csproj", "{9AA37E7B-AA74-4E1E-A6C1-4ADF33E430A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snigger.Data", "Snigger.Data\Snigger.Data.csproj", "{73C294A7-EAA3-43AB-B15E-D6256F891C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snigger.Web", "Snigger.Web\Snigger.Web.csproj", "{2C189F39-9ADB-4B77-9687-E38C426422C6}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AA37E7B-AA74-4E1E-A6C1-4ADF33E430A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA37E7B-AA74-4E1E-A6C1-4ADF33E430A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA37E7B-AA74-4E1E-A6C1-4ADF33E430A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA37E7B-AA74-4E1E-A6C1-4ADF33E430A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C294A7-EAA3-43AB-B15E-D6256F891C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C294A7-EAA3-43AB-B15E-D6256F891C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C294A7-EAA3-43AB-B15E-D6256F891C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C294A7-EAA3-43AB-B15E-D6256F891C84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C189F39-9ADB-4B77-9687-E38C426422C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C189F39-9ADB-4B77-9687-E38C426422C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C189F39-9ADB-4B77-9687-E38C426422C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C189F39-9ADB-4B77-9687-E38C426422C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9AA37E7B-AA74-4E1E-A6C1-4ADF33E430A0} = {E9B02C7D-0A68-40A3-A79A-CB783485FF6F}
+		{73C294A7-EAA3-43AB-B15E-D6256F891C84} = {E9B02C7D-0A68-40A3-A79A-CB783485FF6F}
+		{2C189F39-9ADB-4B77-9687-E38C426422C6} = {13F2BBA0-A5D1-4937-8A44-836FEB5667F0}
 	EndGlobalSection
 EndGlobal

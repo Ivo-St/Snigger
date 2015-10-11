@@ -1,0 +1,16 @@
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Data\bin\Debug\Snigger.Data.dll.config
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Data\bin\Debug\Snigger.Data.dll
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Data\bin\Debug\Snigger.Data.pdb
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Data\bin\Debug\EntityFramework.dll
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Data\bin\Debug\Snigger.Models.dll
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Data\bin\Debug\Snigger.Models.pdb
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Data\bin\Debug\EntityFramework.xml
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Data\obj\Debug\Snigger.Data.csprojResolveAssemblyReference.cache
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Data\obj\Debug\Snigger.Data.dll
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Data\obj\Debug\Snigger.Data.pdb
