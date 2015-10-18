@@ -2,6 +2,7 @@ namespace Snigger.Data
 {
     using Microsoft.AspNet.Identity.EntityFramework;
     using Models;
+    using Migrations;
     using System;
     using System.Data.Entity;
     using System.Linq;
@@ -11,6 +12,7 @@ namespace Snigger.Data
         public SniggerDbContext()
             : base("name=SniggerDbContext")
         {
+            Database.SetInitializer(new MigrateDatabaseToLatestVersion<SniggerDbContext, Configuration>());
         }
 
         public static SniggerDbContext Create()
@@ -18,7 +20,7 @@ namespace Snigger.Data
             return new SniggerDbContext();
         }
 
-        public IDbSet<Snicker> Snickers { get; set; }
+        public IDbSet<Snicker> Snigger { get; set; }
 
     }
 }

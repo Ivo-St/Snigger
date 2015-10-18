@@ -6,5 +6,13 @@ namespace Snigger.Models
     {
         [Key]
         public int Id { get; set; }
+
+        [Required]
+        public string OwnerId { get; set; }
+
+        [Required]
+        [MinLength (1)]
+        [MaxLength (140)]
+        public string Message { get; set; }
     }
 }

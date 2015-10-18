@@ -6,9 +6,9 @@ using System.Web.Mvc;
 
 namespace Snigger.Web.Controllers
 {
-    public class SnickersController : Controller
+    public class SnickerController : BaseController
     {
-        // GET: Snickers
+        // GET: Snicker
         public ActionResult Index()
         {
             return View();

@@ -71,3 +71,8 @@ D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Web\bin\Microsof
 D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Web\obj\Debug\Snigger.Web.dll
 D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Web\obj\Debug\Snigger.Web.pdb
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Web\bin\Glimpse.Ado.dll
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Web\bin\Glimpse.AspNet.dll
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Web\bin\Glimpse.Core.dll
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Web\bin\Glimpse.EF6.dll
+D:\Ivo\Programming\SoftUni\ASP.NET MVC\Homework\Snigger\Snigger.Web\bin\Glimpse.Mvc5.dll

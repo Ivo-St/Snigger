@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace Snigger.Web.Controllers
 {
-    public class UsersController : Controller
+    public class UsersController : BaseController
     {
         // GET: Users
         public ActionResult Index()

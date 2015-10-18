@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace Snigger.Web.Controllers
 {
-    public class NotificationsController : Controller
+    public class NotificationsController : BaseController
     {
         // GET: Notifications
         public ActionResult Index()
